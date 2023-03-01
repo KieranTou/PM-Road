@@ -9,6 +9,6 @@
 ## title 2
 
 # part3
-[click me to /primer/test.md](https://github.com/KieranTou/PM-Road/primer/test)
+[click me to /primer/test.md](https://kierantou.github.io/PM-Road/#/primer/test)
 
 # part4444
